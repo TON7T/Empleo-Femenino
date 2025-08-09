@@ -28,6 +28,7 @@ El análisis se estructura en tres fases principales:
 ```plaintext
 
 ├── slides                    # Diapositivas con presentación de resultados
+├── empleo_mujer.ipynb        # Script del proyecto
 ├── requirements.txt          # Librerías necesarias
 ├── README.md                 # Este archivo
 
