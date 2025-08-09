@@ -27,7 +27,7 @@ El análisis se estructura en tres fases principales:
 
 ```plaintext
 
-├── slides/       # Diapositivas con presentación de resultados
+├── slides                    # Diapositivas con presentación de resultados
 ├── requirements.txt          # Librerías necesarias
 ├── README.md                 # Este archivo
 
