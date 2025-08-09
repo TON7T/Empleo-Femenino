@@ -22,7 +22,22 @@ El estudio emplea **DAGs (Grafos Acíclicos Dirigidos)** para identificar relaci
 
 ---
 
+## 📊 Escenarios planteados
+
+### **Escenario 1** (94,855 casos):
+- Empleadas: **63 %**
+- No empleadas: **37 %**
+
+### **Escenario 2** (63,733 casos):
+- Empleadas: **94 %**
+- Desempleadas: **6 %**
+
+---
+
 ## 🔍 Metodología
+
+Para ambos escenarios:
+
 1. **Construcción del DAG**:
    - Se aplicó un algoritmo de descubrimiento de estructura para determinar las relaciones causales más probables entre las variables.
    - Se realizaron dos modelos:  
