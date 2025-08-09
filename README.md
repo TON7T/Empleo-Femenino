@@ -24,6 +24,14 @@ El análisis se estructura en tres fases principales:
 ---
 
 ## 📂 Estructura del repositorio  
+├── data/              # Datos procesados o scripts para descarga
+├── notebooks/         # Jupyter Notebooks con análisis paso a paso
+├── src/               # Scripts de Python para procesamiento y modelado
+├── figures/           # Imágenes del DAG, gráficos y visualizaciones
+├── README.md          # Este archivo
+└── requirements.txt   # Librerías necesarias
+
+
 ├── slides/ # Diapositivas con presentación de resultados
 ├── README.md # Este archivo
 └── requirements.txt # Librerías necesarias
